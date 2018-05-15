@@ -1,7 +1,7 @@
 # CI on AWS
 
 ## Presentation
-[Slides from presentation](PRESENTATION.pdf)
+[Slides from presentation](Presentation.pdf)
 
 ## Installation
 
